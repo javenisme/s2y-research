@@ -3,9 +3,8 @@ title: Immune Cells Depletion or Exhaustion by COVID-19 Vaccine Spike Protein
 date: 2024-09-22T12:01:16.267Z
 ---
 
-The interaction between COVID-19 vaccines, particularly those based on the spike protein, and immune cells has been a subject of extensive research. Here is a detailed overview of how the spike protein from COVID-19 vaccines might lead to immune cell depletion or exhaustion, along with references:
 
-## Immune Cells Depletion or Exhaustion by COVID-19 Vaccine Spike Protein
+The interaction between COVID-19 vaccines, particularly those based on the spike protein, and immune cells has been a subject of extensive research. Here is a detailed overview of how the spike protein from COVID-19 vaccines might lead to immune cell depletion or exhaustion, along with references:
 
 ### **Mechanisms of Interaction**
 1. **Activation and Response**:
