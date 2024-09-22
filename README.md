@@ -1,3 +1,3 @@
-# TinyMind Blog
+# S2Y Research 
 
-Write blog posts and thoughts at https://tinymind.me with data stored on GitHub.
+Write blog posts and thoughts.
